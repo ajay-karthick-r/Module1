@@ -31,3 +31,4 @@ print("d:", d)
 <img width="1352" height="398" alt="{947C6F6D-FEEE-4E64-90C2-F0781E8439DE}" src="https://github.com/user-attachments/assets/9f3c15d8-109f-451a-bd41-62ed005093dc" />
 
 ## Result
+Thus, the Python program to check whether a given number is even or odd using if...else statement was executed successfully.
